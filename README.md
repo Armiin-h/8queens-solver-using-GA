@@ -1,1 +1,1 @@
-** 8queens-solotion-using-Genetic-Algorithm**
+**8queens-solotion-using-Genetic-Algorithm**
